@@ -1,0 +1,2 @@
+# Animated-Responsive-NavBar-Zia-Codes
+Assalamu Alikum! In this video, I'll show you "How to Create Animated Responsive Navbar". Every Designer needs to Create a Creative Hamburger Menu instead of the boring block on default Hanmurger: and I will show you HOW TO USE : hover and @keyframes. I hope you enjoy this Tutorial! To understand The Topic Please Consider watching the Whole Video, I am covering some creative techniques to create Hamburger.
