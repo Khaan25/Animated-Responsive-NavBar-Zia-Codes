@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;700;900&display=swap");
+/* ========== VARIABLES ========== */
+
+:root {
+    /* COLORS */
+    --white-color: #fff;
+    --brand-background-color: #0433BF;
+    --background-color: #032CA6;
+    --header-color: #021859;
+    --navbar-item-hover-color: #F25CA2;
+    --color5: #0B9ED9;
+    /* TypoGraphy */
+    --body-font: 'Poppins', sans-serif;
+}
+
+/* ========== BASE ========== */
+
+/* ========== LAYOUT ========== */
+
+/* ========== NAVBAR ========== */
+
+/* ========== TOGGLE MENU ========== */
+
+/* ========== NAVBAR ACTIVE (HOVER) ========== */
+
+/* ========== MENU-TOGGLE (REVERSE ANIMATION) ========== */
+
+/* ========== MEDIA QUERIES ========== */
